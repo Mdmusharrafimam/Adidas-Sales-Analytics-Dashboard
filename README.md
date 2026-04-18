@@ -1,7 +1,6 @@
 # Adidas-Sales-Analytics-Dashboard
 Interactive Power BI dashboard analyzing Adidas retail sales across regions, products and channels
 
-# Adidas Sales Analytics Dashboard
 ### Tools: Power BI | Business Analytics | Data Visualization
 
 ## Dashboard Preview
